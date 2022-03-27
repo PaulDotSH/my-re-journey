@@ -23,3 +23,9 @@ This gives us the password ``jcemcfc{/w`` which is the correct answer, this was 
 printf("%c",'y'+2);
 ```
 where y is the character we want.
+
+I couldn't find C5, so I had to watch the video to see the code. It just checked if the length was less than 16 and if the ascii code were consecutive
+
+For the gui crackme, again, a simple string search was enough, not very interesting except the part that explains entry points, a very tiny bit on how gui's work and string searches from ghidra
+
+The next videos were pretty boring and basic, but this much in the course, I finally got very annoyed with the quality, the teacher speaks so slow that it becomes a burden to watch the videos, you cannot speed them up without making the quality way worse
