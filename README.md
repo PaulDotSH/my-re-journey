@@ -29,3 +29,9 @@ I couldn't find C5, so I had to watch the video to see the code. It just checked
 For the gui crackme, again, a simple string search was enough, not very interesting except the part that explains entry points, a very tiny bit on how gui's work and string searches from ghidra
 
 The next videos were pretty boring and basic, but this much in the course, I finally got very annoyed with the quality, the teacher speaks so slow that it becomes a burden to watch the videos, you cannot speed them up without making the quality way worse
+
+After a few days of dealing with other stuff, I came back to the video "converting data types", again a 10 minute video where the first 4 minutes were stuff you already knew (opening an exe in ghidra and what not), and it seems more and more that the teacher doesn't really know reverse engineering either, we just did string search but instead of using something like Detect It Easy we used ghidra.
+Also this course was marketed as a ghidra course but in the next lesson, he used x32dbg to "debug" a crackme, again something that isn't ghidra and doesn't work on linux.
+
+Overall, I do not recommend this course, maybe, just maybe if you are a complete beginner but even then, concepts are not explained well.
+You'd learn just as much, if not even more by watching some random youtube videos and solving the crackme's yourself. The videos are slowly phased and boring, a 12 minute video contains ~3 minutes of information. Also the audio quality is very bad, a decent quality 30-40$ microphone wouldn't have been much of an investment
